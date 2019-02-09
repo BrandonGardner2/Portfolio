@@ -2,13 +2,13 @@
 
 ---
 
-- I appreciate you taking interest in me! This is still under construction but check back soon for updates.
+I appreciate you taking interest in me! This is still under construction but check back soon for updates.
 
 ### Icons Used
 
 ---
 
-## #####Technologies
+##### Technologies
 
 - React https://fontawesome.com/icons/react?style=brands
 - HTML5 https://fontawesome.com/icons/html5?style=brands
@@ -17,7 +17,7 @@
 - LESS https://fontawesome.com/icons/less?style=brands
 - SASS https://fontawesome.com/icons/sass?style=brands
 
-## #####General
+##### General
 
 - https://fontawesome.com/icons/chevron-circle-down?style=solid
 - https://fontawesome.com/icons/bars?style=solid
